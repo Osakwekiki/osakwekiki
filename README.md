@@ -1,1 +1,1 @@
-## Hi. my name is Ike IT Proffesional
+## Hi. my name is Ike IT Profesional
