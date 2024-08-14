@@ -1,4 +1,4 @@
-## Hi. my name is Ike IT Profesional
+
 <h1>Hi, I'm weike, an <a href="https://linkedin.com/in/weike">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
