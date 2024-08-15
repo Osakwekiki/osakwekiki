@@ -4,7 +4,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/osakwekiki/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Osakwekiki/osticket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/osakwekiki/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Directory within Azure VMs](https://github.com/osakwekiki/configure-ad)
