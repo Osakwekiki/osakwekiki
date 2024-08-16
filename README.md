@@ -5,7 +5,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/Osakwekiki/osticket)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/osakwekiki/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Osakwekiki/0sticket-life-style-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring Directory within Azure VMs](https://github.com/osakwekiki/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/osakwekiki/azure-network-protocols)
